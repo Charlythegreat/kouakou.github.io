@@ -25,7 +25,7 @@ A summary of my professional experience, including my roles at OZON.ru and profi
 
 ## Education
 
-Details of my academic background, including my Master's and Bachelor's degrees from Курский государственный университет and Национальный исследовательский технологический университет "МИСиС".
+Details of my academic background, including my Master's and Bachelor's degrees from Kursk State University and National University of Science and Technology "MISiS".
 
 ## Skills
 
